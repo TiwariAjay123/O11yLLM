@@ -1,2 +1,4 @@
 # O11yLLM
 Repository for O11y UI
+
+OPENAI_API_KEY = sk-proj-phFS92WCgFgfEHX69e43T3BlbkFJ8ZeJV88y2hPRp8OkMgy0
